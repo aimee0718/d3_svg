@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.w {
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.chart {
+    position: relative;
+    height: 27rem;
+    width: 100%;
+    padding-top: 2rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #eee;
+}
+
+#tooltip-chart {
+    position: absolute;
+    font-size: .5rem;
+}
+
+.item {
+    float: left;
+    margin-left: 1rem;
+}
+
+.text {
+    left: 2rem;
+    font-size: .8rem;
+}
+
+/* #chart  */
+
+.chart_case, .chart_country {
+    width: 100%;
+    height: 2rem;
+}
+
+.chart_chart {
+    width: 80%;
+    height: 20rem;
+    margin: 0 auto;
+}
+
+#tooltip-chart {
+    display: none;
+    position: absolute;
+    top: 7rem;
+    left: 15%;
+    padding: .5rem;
+    font-size: .5rem;
+    background-color: #eee;
+    border: 1px solid black;
+}

@@ -1,0 +1,114 @@
+{
+  "good": [
+    {
+      "date": "1/4/2021",
+      "watermelon": 20,
+      "apple": 40,
+      "lemon": 80
+    },
+    {
+      "date": "2/4/2021",
+      "watermelon": 40,
+      "apple": 40,
+      "lemon": 30
+    },
+    {
+      "date": "3/4/2021",
+      "watermelon": 30,
+      "apple": 70,
+      "lemon": 60
+    },
+    {
+      "date": "4/4/2021",
+      "watermelon": 40,
+      "apple": 40,
+      "lemon": 30
+    },
+    {
+      "date": "5/4/2021",
+      "watermelon": 25,
+      "apple": 58,
+      "lemon": 20
+    },
+    {
+      "date": "6/4/2021",
+      "watermelon": 40,
+      "apple": 40,
+      "lemon": 30
+    },
+    {
+      "date": "7/4/2021",
+      "watermelon": 30,
+      "apple": 70,
+      "lemon": 60
+    },
+    {
+      "date": "8/4/2021",
+      "watermelon": 40,
+      "apple": 40,
+      "lemon": 30
+    },
+    {
+      "date": "9/4/2021",
+      "watermelon": 25,
+      "apple": 58,
+      "lemon": 20
+    }
+  ],
+  "bad": [
+    {
+      "date": "1/4/2021",
+      "watermelon": 2,
+      "apple": 14,
+      "lemon": 8
+    },
+    {
+      "date": "2/4/2021",
+      "watermelon": 4,
+      "apple": 4,
+      "lemon": 3
+    },
+    {
+      "date": "3/4/2021",
+      "watermelon": 10,
+      "apple": 7,
+      "lemon": 6
+    },
+    {
+      "date": "4/4/2021",
+      "watermelon": 4,
+      "apple": 4,
+      "lemon": 3
+    },
+    {
+      "date": "5/4/2021",
+      "watermelon": 5,
+      "apple": 18,
+      "lemon": 2
+    },
+    {
+      "date": "6/4/2021",
+      "watermelon": 4,
+      "apple": 4,
+      "lemon": 3
+    },
+    {
+      "date": "7/4/2021",
+      "watermelon": 10,
+      "apple": 7,
+      "lemon": 6
+    },
+    {
+      "date": "8/4/2021",
+      "watermelon": 4,
+      "apple": 4,
+      "lemon": 3
+    },
+    {
+      "date": "9/4/2021",
+      "watermelon": 5,
+      "apple": 18,
+      "lemon": 2
+    }
+  ]
+}
